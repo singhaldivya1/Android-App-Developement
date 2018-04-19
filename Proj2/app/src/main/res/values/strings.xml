@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="title_activity_web_view_song">WebViewSong</string>
+    <!--<string-array name="songs">-->
+    <!--<item>Comfortably numb</item>-->
+
+    <!--</string-array>-->
+    <!--<array name="song">-->
+
+    <!--<item>Comfortably numb</item>-->
+    <!--<item>Perfect Strangers</item>-->
+    <!--<item>What about us</item>-->
+    <!--<item>Cant stop the feeling</item>-->
+    <!--<item>Stay</item>-->
+    <!--<item>Ready for it</item>-->
+
+    <!--</array>-->
+    <!--<array name="artist">-->
+    <!--<item>Pink Floyd</item>-->
+    <!--<item>Pink Floyd</item>-->
+    <!--<item>Pink Floyd</item>-->
+    <!--<item>Pink Floyd</item>-->
+    <!--<item>Pink Floyd</item>-->
+    <!--<item>Pink Floyd</item>-->
+    <!--</array>-->
+
+    <!--<array name="songURL">-->
+
+    <!--<item>https://www.youtube.com/watch?v=_FrOQC-zEog</item>-->
+    <!--<item>https://www.youtube.com/watch?v=Ey_hgKCCYU4</item>-->
+    <!--<item>https://www.youtube.com/watch?v=ClU3fctbGls</item>-->
+    <!--<item>https://www.youtube.com/watch?v=ru0K8uYEZWw</item>-->
+    <!--<item>https://www.youtube.com/watch?v=LS2ifrLAadU</item>-->
+    <!--<item>https://www.youtube.com/watch?v=wIft-t-MQuE</item>-->
+    <!--</array>-->
+
+    <!--<array name="songsWiki">-->
+
+    <!--<item>https://en.wikipedia.org/wiki/Comfortably_Numb</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/Perfect_Strangers_(Jonas_Blue_song)</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/What_About_Us_(Pink_song)</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/Can%27t_Stop_the_Feeling!</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/Stay</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/...Ready_for_It%3F</item>-->
+    <!--</array>-->
+
+    <!--<array name="artistwiki">-->
+
+    <!--<item>https://en.wikipedia.org/wiki/Pink_Floyd</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/Jonas_Blue</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/Pink_(singer)</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/Justin_Timberlake</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/Zedd</item>-->
+    <!--<item>https://en.wikipedia.org/wiki/Taylor_Swift</item>-->
+
+    <!--</array>-->
+
+    <!--<string name="title_activity_playlist_grid_viewer">PlaylistGridViewer</string>-->
+
+</resources>
