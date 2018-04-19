@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Proj3_2ndActivity</string>
+    <string name="toolbarTitle">Places to see in Chicago</string>
+    <string-array name="Attraction">
+        <item>Lincoln park Zoo</item>
+        <item>Navy pier</item>
+        <item>Art institute</item>
+        <item>Museum of Science and Industry</item>
+        <item>The Tilt!</item>
+        <item>Shedd aquarium</item>
+        <item>Magnificient Mile</item>
+        <item>Wills Tower</item>
+        <item>Cloud gate</item>
+        <item>Buckingham Fountain</item>
+    </string-array>
+    <string-array name="AttractionURL">
+        <item>http://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>http://www.artic.edu/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>http://www.360chicago.com/tilt/</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.themagnificentmile.com/</item>
+        <item>http://www.willistower.com/</item>
+        <item>https://en.wikipedia.org/wiki/Cloud_Gate</item>
+        <item>https://www.chicagoparkdistrict.com/parks-facilities/clarence-f-buckingham-memorial-fountain</item>
+    </string-array>
+    <string-array name="Restaurant">
+        <item>Lou Mitchell's</item>
+        <item>Manny's Coffee Shop and Deli</item>
+        <item>Avec</item>
+        <item>Coco's Famous Fried Lobster</item>
+        <item>Giordano's</item>
+        <item>Lou Malnati's Pizzeria</item>
+        <item>Tuscany Taylor</item>
+        <item>Italian village</item>
+        <item>Tufanos vernon park</item>
+        <item>Curry on Fire</item>
+    </string-array>
+
+    <string-array name="RestaurantURL">
+        <item>http://www.loumitchells.com/</item>
+        <item>https://www.mannysdeli.com/</item>
+        <item>http://www.avecrestaurant.com/</item>
+        <item>http://cocoslobster.com/</item>
+        <item>https://giordanos.com/</item>
+        <item>https://www.loumalnatis.com/</item>
+        <item>http://www.tuscanychicago.com/location/chicago/</item>
+        <item>https://italianvillage-chicago.com/</item>
+        <item>https://sites.google.com/site/tufanosrestaurant/menu</item>
+        <item>http://www.curryonfirechicago.com/</item>
+    </string-array>
+</resources>

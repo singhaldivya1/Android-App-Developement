@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.singh.proj4.MainActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <Button
+            android:id="@+id/startgame"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start game"/>
+
+        <View
+            android:id="@+id/shape1"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/shape2"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape3"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape4"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape5"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape6"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape7"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape8"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape9"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape10"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <View
+            android:id="@+id/shape11"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/shape12"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape13"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape14"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape15"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape16"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape17"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape18"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape19"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape20"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <View
+            android:id="@+id/shape21"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/shape22"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape23"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape24"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape25"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape26"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape27"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape28"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape29"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape30"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <View
+            android:id="@+id/shape31"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/shape32"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape33"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape34"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape35"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape36"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape37"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape38"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape39"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape40"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+        <View
+            android:id="@+id/shape41"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible" />
+
+        <View
+            android:id="@+id/shape42"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape43"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape44"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape45"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape46"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape47"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape48"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape49"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:id="@+id/shape50"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@drawable/circleshape"
+            android:visibility="visible"
+            android:layout_marginTop="5dp"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@android:color/darker_gray"/>
+    </LinearLayout>
+
+
+</ScrollView>
+
+
+int p2prevMove;
+        int p2prevMoveGroup;    //p1prevMove =1;
+        int newGroup;
+        int nextMove;
+        ArrayList<Integer> availableMoveFor2;
+        p2prevMove  = (int)p2PrevGuesses.peek();
+        p2prevMoveGroup =holeGroup.get(p2prevMove);
+        availableMoveFor2 = getKeysByValue(holeGroup,p2prevMoveGroup);
+        availableMoveFor2.removeAll(p2PrevGuesses);
+        if (availableMoveFor2.isEmpty()){
+            p2VisitedGroups.add(p2prevMoveGroup);
+            if(p2prevMoveGroup ==1){
+                newGroup = p2prevMoveGroup + 1;
+            }
+            else if(p2prevMoveGroup == 5){
+                newGroup = p2prevMoveGroup - 1;
+            }
+            else {
+                availableMoveFor2 = getKeysByValue(holeGroup,p2prevMoveGroup - 1);
+                availableMoveFor2.removeAll(p2PrevGuesses);
+            }
+        }
+        else nextMove = availableMoveFor2.get(0);
+            return nextMove;
+
+        else if( (winningHoleGroup == (p2prevMoveGroup+1)) || (winningHoleGroup == (p2prevMoveGroup - 1))){
+            if (p2prevMoveGroup == 1){
+                availableMoveFor2 = getKeysByValue(holeGroup,2);
+            }
+            else if(p2prevMoveGroup == 5){
+                availableMoveFor2 = getKeysByValue(holeGroup,4);
+            }
+            else{availableMoveFor2 = getKeysByValue(holeGroup,(p2prevMoveGroup - 1));}
+            Log.i("Main","Close Group");
+            availableMoveFor2.removeAll(p2PrevGuesses);
+            nextMove = availableMoveFor2.get(0);
+            return nextMove;
+        }
+
+
+        else return p2prevMove;

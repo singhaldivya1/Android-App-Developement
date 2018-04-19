@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.singh.proj3_2ndactivity">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="edu.uic.cs478.sp18.project3" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".AttractionActivity">
+
+        </activity>
+
+        <activity android:name=".RestaurantActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".ChicagoReciever"
+            android:enabled="true"
+            android:exported="true"
+            android:permission="edu.uic.cs478.sp18.project3">
+            <intent-filter android:priority="10">
+                <action android:name="com.example.singh.proj3_2ndactivity.attraction" />
+            </intent-filter>
+            <intent-filter android:priority="10">
+                <action android:name="com.example.singh.proj3_2ndactivity.restaurant" />
+            </intent-filter>
+        </receiver>
+
+
+
+    </application>
+
+</manifest>
