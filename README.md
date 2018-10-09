@@ -1,6 +1,9 @@
 # Android-App-Developement
 
-This project has 3 Android apps-
+This project has 5 Android apps-
+
+## Project 1
+Basic implementations of activities and intents. 
 
 ## Project 2
 Utilizes the knowledge of Adapter Design pattern. For detailed description please read the respective README provided inside the project.
