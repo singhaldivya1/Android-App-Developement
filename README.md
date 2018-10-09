@@ -10,3 +10,6 @@ Implements Fragments and utilizes the knowledge of Observer pattern. For detaile
 
 ## Project 4
 Implements Multithreading in Java. For detailed description please read the respective README provided inside the project.
+
+## Project 5
+Uses SQLite Database and also implements bound services. Please read full description in respective README of the project.
